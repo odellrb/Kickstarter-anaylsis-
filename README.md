@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 Repository address: https://github.com/odellrb/Kickstarter-anaylsis-.git
 ## Overview of Project
-The purpose of the project was to help Louise understand trends based on launch dates and funding from Kickstarter campaiangs, to help 
+The purpose of the project was to help Louise understand trends based on launch dates and funding from Kickstarter campaigns, to help 
 her launch her play "Fever".
 
 ## Analysis and Challenges
