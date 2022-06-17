@@ -5,7 +5,7 @@ The purpose of the project was to help Louise understand trends based on launch 
 her launch her play "Fever".
 
 ## Analysis and Challenges
-We had to isolate down to the most successful dates and determine which monitary goals where more realistic 
+We had to isolate down to the most successful dates and determine which monetary goals where more realistic 
 than others. Trying to determine proper launch date and the right goal amount were the challenges.
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_launch](/Resources/Theater_Outcomes_vs_launch.png)
