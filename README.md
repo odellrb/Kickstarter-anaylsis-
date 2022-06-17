@@ -15,12 +15,16 @@ than others. Trying to determine proper launch date and the right goal amount we
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-May and June are the best times to launch. April and especially October were not good
-times to launch.
+
+  May and June are the best times to launch. April and especially October were not good
+  times to launch.
 - What can you conclude about the Outcomes based on Goals?
-A goal of 5,000 dollars or less had the best results for success.
+
+  A goal of 5,000 dollars or less had the best results for success.
 - What are some limitations of this dataset?
-The limitations of this dataset doesnt paint the whole pictures to be succussful. We should look into 
-other variables to get a better idea of how to possible crowdfund more money and backers.
+
+  The limitations of this dataset doesnt paint the whole pictures to be succussful. We should look into 
+  other variables to get a better idea of how to possible crowdfund more money and backers.
 - What are some other possible tables and/or graphs that we could create?
-We could use Pie charts, bar graphs, and possible a whisker chart if one is interested enough for it.
+
+  We could use Pie charts, bar graphs, and possible a whisker chart if one is interested enough for it.
