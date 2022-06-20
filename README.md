@@ -27,4 +27,4 @@ than others. Trying to determine proper launch date and the right goal amount we
   other variables to get a better idea of how to possibly crowdfund more money and backers.
 - What are some other possible tables and/or graphs that we could create?
 
-  We could use Pie charts, bar graphs, and possible a Box and whisker chart if one is interested enough for it.
+  We could use Pie charts, bar graphs, and possibly a Box and whisker chart if one is interested enough for it.
