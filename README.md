@@ -23,8 +23,8 @@ than others. Trying to determine proper launch date and the right goal amount we
   A goal of 5,000 dollars or less had the best results for success.
 - What are some limitations of this dataset?
 
-  The limitations of this dataset do noy paint the whole picture to be succussful. We should look into 
+  The limitations of this dataset do not paint the whole picture to be succussful. We should look into 
   other variables to get a better idea of how to possibly crowdfund more money and backers.
 - What are some other possible tables and/or graphs that we could create?
 
-  We could use Pie charts, bar graphs, and possible a whisker chart if one is interested enough for it.
+  We could use Pie charts, bar graphs, and possible a Box and whisker chart if one is interested enough for it.
